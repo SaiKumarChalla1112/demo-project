@@ -1,2 +1,3 @@
 
 this is a test file added in git repo
+this is the second line of text added to this file to see how to restore staged files
